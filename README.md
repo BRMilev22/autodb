@@ -12,6 +12,18 @@ AutoDB is a full-stack web application for managing an auto parts inventory. It 
 - Import/export functionality (Excel/CSV)
 - Responsive interface for desktop and mobile devices
 
+## Screenshots
+
+<div align="center">
+  <img src="client/public/assets/sc1.png" alt="Dashboard View" width="45%" />
+  <img src="client/public/assets/sc2.png" alt="Inventory Management" width="45%" />
+</div>
+
+<div align="center">
+  <img src="client/public/assets/sc3.png" alt="Part Details" width="45%" />
+  <img src="client/public/assets/sc4.png" alt="Stock Analytics" width="45%" />
+</div>
+
 ## Technology Stack
 
 - **Frontend**: React, React Bootstrap, Axios
@@ -118,4 +130,4 @@ The system comes with a pre-configured admin account:
 
 ## License
 
-MIT 
+MIT
